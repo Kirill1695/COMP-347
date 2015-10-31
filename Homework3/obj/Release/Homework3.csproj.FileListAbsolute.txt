@@ -1,0 +1,5 @@
+C:\Users\Kirill Likhovid\Desktop\operatingsystemshomework3\Homework3\bin\Release\Homework3.exe.config
+C:\Users\Kirill Likhovid\Desktop\operatingsystemshomework3\Homework3\bin\Release\Homework3.exe
+C:\Users\Kirill Likhovid\Desktop\operatingsystemshomework3\Homework3\bin\Release\Homework3.pdb
+C:\Users\Kirill Likhovid\Desktop\operatingsystemshomework3\Homework3\obj\Release\Homework3.exe
+C:\Users\Kirill Likhovid\Desktop\operatingsystemshomework3\Homework3\obj\Release\Homework3.pdb
